@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naufalrdj
-- 👀 I’m interested in Software Engineering, ML, Data Science
-- 🌱 I’m currently learning Golang, R, TensorFlow
-- 💞️ I’m looking to collaborate on any kind of Software Engineering project
+- 💅🏻 DESIGN IS SHIT
+- 💻 CODE IS SHIT
+- 🤬 ALL I WANT IS REVENGE
 - 📫 How to reach me @rachfiandj
 
 <!---
